@@ -1,0 +1,13 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *'  # በየሰዓቱ
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feeds_list: "https://dev.to/feed/yourdevtousername,https://yourblog.com/rss.xml"
