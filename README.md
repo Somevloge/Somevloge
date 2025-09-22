@@ -1,9 +1,9 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+[Your+Name];Passionate+Developer+and+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+[Bamlak gashaw];Passionate+Developer+and+Innovator" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Bamlak gashaw]</h1>
 <h3 align="center">[Your tagline, e.g., Passionate Developer & Innovator]</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,12 +15,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 🔭 I’m currently working on **[your project, e.g., a cool app]**
+- 🔭 I’m currently working on **[++++]**
 - 🌱 I’m currently learning **[e.g., React, AI, Rust]**
 - 👨‍💻 All of my projects are available at [your portfolio link, e.g., yourwebsite.com]
 - 📝 I regularly write articles on [your blog link, e.g., dev.to/yourusername]
-- 💬 Ask me about **[your expertise, e.g., Python, web dev]**
-- 📫 How to reach me **[your email, e.g., you@example.com]**
+- 💬 Ask me about **[ETN ECOSYSTEM]**
+- 📫 How to reach me **[bamlakgashaw558@gmail.com]**
 - ⚡ Fun fact **[something fun, e.g., I code while listening to metal]**
 
 <h3 align="left">Connect with me:</h3>
